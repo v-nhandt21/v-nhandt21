@@ -2,7 +2,7 @@
 
 Welcom to visit my github, my main topic is in speech and signal processing !
 
-[![Noah's github stats](https://github-readme-stats.vercel.app/api?username=tranctan&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noahdrisort&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tranctan/tranctan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
