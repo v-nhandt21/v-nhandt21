@@ -6,6 +6,7 @@ Welcom to visit my github, my main topic is in speech and signal processing !
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-nhandt21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Visit My [Portfolio and CV](https://v-nhandt21.github.io/) for more information
 <!--
 **tranctan/tranctan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
